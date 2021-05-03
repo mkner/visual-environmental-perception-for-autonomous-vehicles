@@ -29,8 +29,7 @@ This project explores these aspects of visual perception methods for autonomous 
 - Evaluate the validity of output from 2D object detectors with semantic segmentation
 - Calculate minimal distance to impact by determining how far obstacles are from the autonomous vehicle
 - Use approximate dimensions of objects to further validate predicted categories from semantic segmentation
-- Find possible unknown obstacles previously unidentified or unclassified as objects to avoid potential collisions
-- Suggest possible metrics to gauge and predict the reliably of the semantic validation.
+
 
 
 

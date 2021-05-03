@@ -1,8 +1,6 @@
 ### Visual Environmental Perception For Autonomous Road Vehicles
 
-Autonomous vehicles and robots are becoming more prevalent in complex transportation environments. 
-
-This includes self-driving cars, small versatile autonomous mobile delivery units, industrial and domestic mobile robots, and other yet to be imagined personal transport vehicles, mobile utilitarian robots, and autonomous terrain based forms.
+Autonomous vehicles and robots are becoming more prevalent in complex transportation environments. This includes self-driving cars, small versatile autonomous mobile delivery units, industrial and domestic mobile robots, and other yet to be imagined personal transport vehicles, mobile utilitarian robots, and autonomous terrain based forms.
 
 To reliably and safely traverse their environments, each type of autonomous mobile unit needs to perceive exactly where the navigatable area is.
 

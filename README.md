@@ -18,7 +18,7 @@ What they have in common are several important aspects of environmental percepti
 - Where and what are the dynamic and static objects in the immediate surroundings?
 - How can the object detections be validated with a reliable degree of accuracy?
 
-This project explores these aspects of visual perception methods for autonomous road vehicles using semantic segmentation and has two main sections structured as follows:
+This [interactive project](visual_odometry_transforms.ipynb) explores these aspects of visual perception methods for autonomous road vehicles using semantic segmentation and has two main sections structured as follows:
 
 **Finding and delimiting drivable surfaces**
 

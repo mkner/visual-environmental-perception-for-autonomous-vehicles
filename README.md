@@ -1,5 +1,9 @@
 ### Visual Environmental Perception For Autonomous Road Vehicles
 
+
+### Mike Knerr
+<br>
+
 Autonomous vehicles and robots are becoming more prevalent in complex transportation environments. This includes self-driving cars, small versatile autonomous mobile delivery units, industrial and domestic mobile robots, and other yet to be imagined personal transport vehicles, mobile utilitarian robots, and autonomous terrain based forms.
 
 To reliably and safely traverse their environments, each type of autonomous mobile unit needs to perceive exactly where the navigatable area is. For autonomous highway vehicles this can include roadways, off-road surfaces and other drivable areas in parking lots, garages or structures. An autonomous mobile delivery robot, on the other hand, will have a greater range of possible drivable surfaces than self-driving cars. These units need to perceive sidewalks, curbs, crosswalks, pathways, ramps, flooring, and other interior areas.

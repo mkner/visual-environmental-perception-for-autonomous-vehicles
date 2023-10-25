@@ -30,4 +30,5 @@ This project explores these aspects of visual perception methods for autonomous 
 
 </br>
 
-This project is partially based on a University Of Toronto assigment for the course "Visual Perception For Self-Driving Cars"
+<sub>Project is partially based on and motivated by an assigment for the University Of Toronto course "Visual Perception For Self-Driving Cars"</sub>
+

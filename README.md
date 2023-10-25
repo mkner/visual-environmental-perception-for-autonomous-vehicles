@@ -36,5 +36,5 @@ This [interactive project](visual_environmental_perception_for_autonomous_vehicl
 
 </br>
 
-<sub>Project is partially based on and motivated by an assigment for the University Of Toronto course **Visual Perception For Self-Driving Cars**</sub>
+<sub>Project is partially based on and motivated by an assigment for the University Of Toronto course *Visual Perception For Self-Driving Cars*</sub>
 

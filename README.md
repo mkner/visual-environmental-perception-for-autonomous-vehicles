@@ -1,6 +1,5 @@
 ### Visual Environmental Perception For Autonomous Road Vehicles
 
-
 **Discovering drivable surfaces, lane boundaries, objects and distancing**
 
 ### Mike Knerr

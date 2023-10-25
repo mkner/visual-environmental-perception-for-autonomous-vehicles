@@ -3,7 +3,7 @@
 
 **Discovering drivable surfaces, lane boundaries, objects and distancing**<br>
 
-### Mike Knerr
+#### Mike Knerr
 <br>
 
 Autonomous vehicles and robots are becoming more prevalent in complex transportation environments. This includes self-driving cars, small versatile autonomous mobile delivery units, industrial and domestic mobile robots, and other yet to be imagined personal transport vehicles, mobile utilitarian robots, and autonomous terrain based forms.
